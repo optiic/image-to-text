@@ -1,0 +1,26 @@
+{
+  "name": "optiic-image-to-text",
+  "version": "1.0.0",
+  "description": "Image to Text converts images to text using advanced OCR and image recognition",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "image-to-text",
+    "ocr",
+    "image-recognition",
+    "text-extraction",
+    "ai",
+    "api",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Optiic",
+  "license": "ISC",
+  "homepage": "https://optiic.dev",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/optiic/image-to-text.git"
+  }
+}
